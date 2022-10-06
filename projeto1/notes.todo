@@ -1,0 +1,3 @@
+como criar um desgn pattern em php do tipo singleton?
+
+1 - Crie uma classe com o nome da classe que deseja instanciar, por exemplo, se você deseja instanciar uma classe chamada "MinhaClasse", crie uma classe com o mesmo nome, por exemplo, "MinhaClasse.php".
